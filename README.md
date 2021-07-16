@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saull Brandão</h1>
-<h3 align="center">I'm currently learning Web Development</h3>
+<h3 align="center">I'm currently studying to be a Software Engineer</h3>
 
 - 🌱 I’m currently learning **React and Typescript**
 
