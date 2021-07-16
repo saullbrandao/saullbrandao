@@ -39,8 +39,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saullbrandao&theme=dark" alt="saullbrandao" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saullbrandao&show_icons=true&theme=dark&locale=en&layout=compact" alt="saullbrandao" /></p>
-
-
-
-<br>
-<footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
