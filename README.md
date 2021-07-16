@@ -34,7 +34,11 @@
 
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
-![Metrics](https://metrics.lecoq.io/saullbrandao?template=classic&config.timezone=America%2FToronto)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saullbrandao&show_icons=true&theme=dark&locale=en" alt="saullbrandao" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saullbrandao&theme=dark" alt="saullbrandao" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saullbrandao&show_icons=true&theme=dark&locale=en&layout=compact" alt="saullbrandao" /></p>
 
 
 
