@@ -13,10 +13,6 @@
 <a href= https://github.com/saullbrandao?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
 <a href= https://github.com/saullbrandao?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
 <a href= https://github.com/saullbrandao?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/saullbrandao?tab=repositories&q=&type=&language=nextjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nextjs.svg'> </a>
-<a href= https://github.com/saullbrandao?tab=repositories&q=&type=&language=tailwind&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg'> </a>
-<a href= https://github.com/saullbrandao?tab=repositories&q=&type=&language=jest&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jest.svg'> </a>
-<a href= https://github.com/saullbrandao?tab=repositories&q=&type=&language=cypress&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cypress.svg'> </a>
 
 
 <h2> Connect with me</h2>
