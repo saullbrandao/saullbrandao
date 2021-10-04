@@ -16,13 +16,16 @@
 
 
 <h2> Connect with me</h2>
-<a href="https://www.twitter.com/saullbrandao/">
-      <img alt="Saull Brandão" src="https://img.shields.io/badge/-saullbrandao-1DA1F2?style=flat&logo=Twitter&logoColor=white" />
+      <a href="https://www.saull.com.br">
+            <img alt="Saull Brandão" src="https://img.shields.io/badge/-saull.com.br-1a1a1a?style=flat&logo=googlechrome&logoColor=white" />
+      </a>
+      <a href="https://www.twitter.com/saullbrandao/">
+      <img alt="twitter logo" src="https://img.shields.io/badge/-saullbrandao-1DA1F2?style=flat&logo=Twitter&logoColor=white" />
     </a>
     <a href="https://www.linkedin.com/in/saullbrandao/">
-      <img alt="Saull Brandão" src="https://img.shields.io/badge/-saullbrandao-0A66C2?style=flat&logo=Linkedin&logoColor=white" />
+      <img alt="linkedin logo" src="https://img.shields.io/badge/-saullbrandao-0A66C2?style=flat&logo=Linkedin&logoColor=white" />
     </a>
-
+   
 
 
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
