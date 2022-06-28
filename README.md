@@ -1,34 +1,49 @@
-<h1> Hello, I'm Saull Brandão <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=50px height=50px> </h1>
-<p align='center'>
+<h1 align="center"> Hello, I'm Saull Brandão <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=50px height=50px> </h1>
+<h3 align="center">A Full Stack Web Developer 💻</h3>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-- 🌱 Full Stack Developer
-
-<h2> Technologies <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px  height=32px> </h2>
-<div style="display: flex">
-    <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/ruby.svg'>
-    <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/rails.svg'>
-    <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>
-    <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'>
-    <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>
-    <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'>
-    <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'>
-    <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg'>
-</div>
+- 🌱 I’m currently learning more about **Ruby on Rails** and its ecossystem.
 
 <h2> Connect with me</h2>
-      <a href="https://www.saull.com.br">
-            <img alt="Saull Brandão" src="https://img.shields.io/badge/-saull.com.br-1a1a1a?style=flat&logo=googlechrome&logoColor=white" />
-      </a>
-      <a href="https://www.twitter.com/saullbrandao/">
-      <img alt="twitter logo" src="https://img.shields.io/badge/-saullbrandao-1DA1F2?style=flat&logo=Twitter&logoColor=white" />
-    </a>
-    <a href="https://www.linkedin.com/in/saullbrandao/">
-      <img alt="linkedin logo" src="https://img.shields.io/badge/-saullbrandao-0A66C2?style=flat&logo=Linkedin&logoColor=white" />
-    </a>
-   
+<a href="https://www.saull.com.br">
+    <img alt="Saull Brandão" src="https://img.shields.io/badge/-saull.com.br-1a1a1a?style=flat&logo=googlechrome&logoColor=white" />
+</a>
+<a href="https://www.twitter.com/saullbrandao/">
+    <img alt="twitter logo" src="https://img.shields.io/badge/-saullbrandao-1DA1F2?style=flat&logo=Twitter&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/saullbrandao/">
+    <img alt="linkedin logo" src="https://img.shields.io/badge/-saullbrandao-0A66C2?style=flat&logo=Linkedin&logoColor=white" />
+</a>
 
+<h2 align="left">Programming Languages:</h2>
+<div style="display: flex">
+    <img width='40px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/ruby.svg' alt="ruby">
+    <img width='40px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg' alt="javascript">
+    <img width='40px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg' alt="typescript">
+</div>
+
+<h2 align="left">Front End:</h2>
+<div style="display: flex">
+    <img width='40px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg' alt='html'>
+    <img width='40px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg' alt='css'>
+    <img width='40px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg' alt='react'>
+    <img width='40px' src='https://avatars.githubusercontent.com/u/64235328' alt='remix'>
+    <img width='40px' src='https://assets.vercel.com/image/upload/q_auto/front/assets/design/nextjs-white-logo.svg' alt='nextjs'>
+    <img width='40px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg' alt='tailwind'>
+    
+</div>
+
+<h2 align="left">Back End and Databases:</h2>
+<div style="display: flex">
+    <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/rails.svg' alt='ruby on rails'>
+    <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/postgresql.svg' alt='postgresql'>
+</div>
+
+<h2 align="left">Other Technologies:</h2>
+<div style="display: flex">
+    <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/heroku.svg' alt='heroku'>
+    <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/docker.svg' alt='docker'>
+    <img width ='40px' src ='https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png' alt='docker'>
+</div>
 
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width=32px  height=32px> </h2>
 
