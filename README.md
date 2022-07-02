@@ -49,6 +49,6 @@
 
 <div>
   <a href="https://github.com/saullbrandao">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saullbrandao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saullbrandao&layout=compact&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saullbrandao&show_icons=true&t&bg_color=080808&text_color=f5f5f5&icon_color=2196F3&title_color=2196F3&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saullbrandao&layout=compact&bg_color=080808&text_color=f5f5f5&icon_color=2196F3&title_color=2196F3"/>
 <div>
