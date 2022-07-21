@@ -40,6 +40,7 @@
 
 <h2 align="left">Other Technologies:</h2>
 <div style="display: flex">
+    <img width ='40px' src ='https://rspec.info/images/logo.png' alt='rspec'>
     <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/heroku.svg' alt='heroku'>
     <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/docker.svg' alt='docker'>
     <img width ='40px' src ='https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png' alt='docker'>
