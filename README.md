@@ -25,6 +25,7 @@
 <div style="display: flex">
     <img width='40px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg' alt='html'>
     <img width='40px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg' alt='css'>
+    <img width='40px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/angularjs.svg' alt='angular'>
     <img width='40px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg' alt='react'>
     <img width='40px' src='https://avatars.githubusercontent.com/u/64235328' alt='remix'>
     <img width='40px' src='https://assets.vercel.com/image/upload/q_auto/front/assets/design/nextjs-white-logo.svg' alt='nextjs'>
@@ -43,7 +44,7 @@
     <img width ='40px' src ='https://rspec.info/images/logo.png' alt='rspec'>
     <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/heroku.svg' alt='heroku'>
     <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/docker.svg' alt='docker'>
-    <img width ='40px' src ='https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png' alt='docker'>
+    <img width ='40px' src ='https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png' alt='git'>
 </div>
 
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width=32px  height=32px> </h2>
