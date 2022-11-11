@@ -1,11 +1,9 @@
 <h1 align="center"> Hello, I'm Saull Brandão <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=50px height=50px> </h1>
-<h3 align="center">A Full Stack Web Developer 💻</h3>
-
-- 🌱 I’m currently learning more about **Ruby on Rails** and its ecossystem.
+<h3 align="center">Full Stack Web Developer 💻</h3>
 
 <h2> Connect with me</h2>
-<a href="https://www.saull.com.br">
-    <img alt="Saull Brandão" src="https://img.shields.io/badge/-saull.com.br-1a1a1a?style=flat&logo=googlechrome&logoColor=white" />
+<a href="https://saull.vercel.app">
+    <img alt="Saull Brandão" src="https://img.shields.io/badge/-saull.vercel.app-1a1a1a?style=flat&logo=googlechrome&logoColor=white" />
 </a>
 <a href="https://www.twitter.com/saullbrandao/">
     <img alt="twitter logo" src="https://img.shields.io/badge/-saullbrandao-1DA1F2?style=flat&logo=Twitter&logoColor=white" />
@@ -16,9 +14,9 @@
 
 <h2 align="left">Programming Languages:</h2>
 <div style="display: flex">
-    <img width='40px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/ruby.svg' alt="ruby">
     <img width='40px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg' alt="javascript">
     <img width='40px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg' alt="typescript">
+    <img width='40px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/ruby.svg' alt="ruby">
 </div>
 
 <h2 align="left">Front End:</h2>
