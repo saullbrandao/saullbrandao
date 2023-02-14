@@ -1,6 +1,8 @@
 <h1 align="center"> Hello, I'm Saull Brandão <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=50px height=50px> </h1>
 <h3 align="center">Full Stack Web Developer 💻</h3>
 
+- 🌱 I’m currently learning **Java**
+
 <h2> Connect with me</h2>
 <a href="https://saull.vercel.app">
     <img alt="Saull Brandão" src="https://img.shields.io/badge/-saull.vercel.app-1a1a1a?style=flat&logo=googlechrome&logoColor=white" />
@@ -16,6 +18,7 @@
 <div style="display: flex">
     <img width='40px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg' alt="javascript">
     <img width='40px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg' alt="typescript">
+    <img width='40px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg' alt="java">
     <img width='40px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/ruby.svg' alt="ruby">
 </div>
 
@@ -28,6 +31,7 @@
     <img width='40px' src='https://avatars.githubusercontent.com/u/64235328' alt='remix'>
     <img width='40px' src='https://assets.vercel.com/image/upload/q_auto/front/assets/design/nextjs-white-logo.svg' alt='nextjs'>
     <img width='40px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg' alt='tailwind'>
+    <img width='40px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg' alt='bootstrap'>
     
 </div>
 
