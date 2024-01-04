@@ -1,8 +1,6 @@
 <h1 align="center"> Hello, I'm Saull Brandão <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=50px height=50px> </h1>
 <h3 align="center">Full Stack Web Developer 💻</h3>
 
-- 🌱 I’m currently learning **Spring**
-
 <h2> Connect with me</h2>
 <a href="https://saull.vercel.app">
     <img alt="Saull Brandão" src="https://img.shields.io/badge/-saull.vercel.app-1a1a1a?style=flat&logo=googlechrome&logoColor=white" />
@@ -16,25 +14,27 @@
 
 <h2 align="left">Programming Languages:</h2>
 <div style="display: flex">
-    <img width='40px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg' alt="java">
-    <img width='40px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg' alt="javascript">
-    <img width='40px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg' alt="typescript">
+    <img width='40px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/csharp.svg' alt="csharp">
+    <img width='40px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/java.svg' alt="java">
+    <img width='40px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/javascript.svg' alt="javascript">
+    <img width='40px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/typescript.svg' alt="typescript">
 </div>
 
 <h2 align="left">Front End:</h2>
 <div style="display: flex">
-    <img width='40px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg' alt='html'>
-    <img width='40px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg' alt='css'>
-    <img width='40px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/angularjs.svg' alt='angular'>
-    <img width='40px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg' alt='react'>
-    <img width='40px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg' alt='tailwind'>
-    <img width='40px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg' alt='bootstrap'>
+    <img width='40px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/html.svg' alt='html'>
+    <img width='40px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/css.svg' alt='css'>
+    <img width='40px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/angularjs.svg' alt='angular'>
+    <img width='40px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/reactjs.svg' alt='react'>
+    <img width='40px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/tailwind.svg' alt='tailwind'>
+    <img width='40px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/bootstrap.svg' alt='bootstrap'>
     
 </div>
 
 <h2 align="left">Back End and Databases:</h2>
 <div style="display: flex">
-    <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/spring.svg' alt='spring'>
+    <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/dotnet.svg' alt='dotnet'>
+    <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/spring.svg' alt='spring'>
     <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/postgresql.svg' alt='postgresql'>
     <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/oracle.svg' alt='oracle'>
 </div>
