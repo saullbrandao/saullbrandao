@@ -5,9 +5,6 @@
 <a href="https://saull.vercel.app">
     <img alt="Saull Brandão" src="https://img.shields.io/badge/-saull.vercel.app-1a1a1a?style=flat&logo=googlechrome&logoColor=white" />
 </a>
-<a href="https://www.twitter.com/saullbrandao/">
-    <img alt="twitter logo" src="https://img.shields.io/badge/-saullbrandao-1DA1F2?style=flat&logo=Twitter&logoColor=white" />
-</a>
 <a href="https://www.linkedin.com/in/saullbrandao/">
     <img alt="linkedin logo" src="https://img.shields.io/badge/-saullbrandao-0A66C2?style=flat&logo=Linkedin&logoColor=white" />
 </a>
